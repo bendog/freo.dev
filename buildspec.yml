@@ -4,6 +4,9 @@ phases:
   install:
     commands:
       - npm install -g sass
+  pre_build:
+    commands:
+      - chmod +x build.sh
   build:
     commands:
-       - ./build.sh
+       - bash build.sh
