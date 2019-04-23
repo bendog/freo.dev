@@ -3,6 +3,8 @@
 This is a simple v0.1 for the http://freo.pub developer group.  
 This version is simple html and css, and isn't expected to do anything to fancy.
 
+![Build Status](https://codebuild.ap-southeast-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiKytqOTJMZ0FSWlNyWXlTckRwVy9MMlVCS3Y5MXBXSTR1NVpnV1Fobnc1dTVUdWV6TEV2TUYrYWkxbnAvekF0bGYrb0VpZHJlUi9namVWd09INnJEa1FBPSIsIml2UGFyYW1ldGVyU3BlYyI6IjlndTB4R3AzcjNiZ01QQy8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 ## Dev notes
 
 ### Styling and Compiling SASS3.0 to css
