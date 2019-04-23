@@ -10,9 +10,6 @@ phases:
   build:
     commands:
        - bash build.sh
-  post_build:
-    commands:
-      - ls -l
 artifacts:
   files:
     - '**/*'
