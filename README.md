@@ -22,6 +22,6 @@ if you want to watch for changes you can use
 
 ## Deploying
 
-there's a quick s3 sync script
+there's a quick s3 sync script, this should run automatically when the master branch is updated on github.
 
     ./build.sh
