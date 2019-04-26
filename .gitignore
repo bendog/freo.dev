@@ -1,5 +1,5 @@
 # ignore compiled css
-static/css/freo.pub.*
+static/css/freo.*
 
 # dev environment files
 .DS_Store

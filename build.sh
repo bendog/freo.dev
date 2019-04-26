@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sass src/freo.pub.scss static/css/freo.pub.css --style=compressed $@
+sass src/freo.scss static/css/freo.css --style=compressed $@
